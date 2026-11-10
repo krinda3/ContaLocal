@@ -1,11 +1,10 @@
 # ContaLocal
 
-ContaLocal es un programa Contabilidad local en Python, que parte de el programa Gestión MGD y se complementa con la presentación de modelos de Hacienda, legalizacion de cuentas en el Registro Mercantil y un pequeño flujo de trabajo trimestral de conciliacion de extractos bancarios:
+ContaLocal es un programa de contabilidad local en Python que parte de Gestión MGD y se complementa con la presentación de modelos de Hacienda, la legalización de cuentas en el Registro Mercantil y un pequeño flujo de trabajo trimestral de conciliación de extractos bancarios.
 
-Es un programa **web local**: se ejecuta en el propio equipo, se abre en el navegador (http://127.0.0.1:8000) y los datos no salen de él.
-Cada empresa es un fichero SQLite propio y se abre con la contraseña de su certificado digital.
+Es un programa web local: se ejecuta en el propio equipo, se abre en el navegador (http://127.0.0.1:8000) y los datos no salen de él. Cada empresa es un fichero SQLite propio y se abre con la contraseña de su certificado digital.
 
-«licencia pendiente».
+**Licencia pendiente de aclarar.** Mientras no se publique una licencia, el código se puede leer pero no se puede reutilizar, modificar ni redistribuir.
 
 Reglas para quien trabaje en el código: [AGENTS.md](AGENTS.md)
 
