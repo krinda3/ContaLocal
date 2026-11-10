@@ -5,6 +5,8 @@ ContaLocal es un programa Contabilidad local en Python, que parte de el programa
 Es un programa **web local**: se ejecuta en el propio equipo, se abre en el navegador (http://127.0.0.1:8000) y los datos no salen de él.
 Cada empresa es un fichero SQLite propio y se abre con la contraseña de su certificado digital.
 
+«licencia pendiente».
+
 Reglas para quien trabaje en el código: [AGENTS.md](AGENTS.md)
 
 ## Qué hace hoy
